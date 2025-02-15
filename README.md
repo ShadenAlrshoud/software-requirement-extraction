@@ -90,5 +90,5 @@ Since all steps are **included in a single notebook**, follow these steps:
 ---
 
 ## 👥 **Contributors**
-💡 Developed by: **[Your Name]**, **[Team Members]**  
-📌 **Supervised by**: **[Supervisor’s Name]**  
+💡 Developed by: **[Shaden Alrshoud]**, **[Maram Alshammary]**, **[Dalia Alasmari]**, **[Lama Alamari]**
+📌 **Supervised by**: **[Suha Althunyyan]**  
