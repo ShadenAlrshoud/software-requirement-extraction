@@ -29,12 +29,8 @@ If running locally, install the necessary dependencies:
 ```bash
 pip install nltk bertopic openai pandas plotly umap-learn
 
----
-
-
-
-
 ## ⚙️ **How to Run**
+
 Since all steps are **included in a single notebook**, follow these steps:
 
 ### 🔹 **1. Run Preprocessing**
