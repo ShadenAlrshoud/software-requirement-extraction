@@ -28,7 +28,10 @@ Since this project is executed in a **Kaggle Notebook**, minimal installation is
 If running locally, install the necessary dependencies:
 ```bash
 pip install nltk bertopic openai pandas plotly umap-learn
----
+### ✅ **Fix the Section Formatting**
+Make sure there's a **blank line** before and after the headings:
+
+```md
 ## ⚙️ **How to Run**
 
 Since all steps are **included in a single notebook**, follow these steps:
