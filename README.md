@@ -22,18 +22,15 @@ By **clustering** similar user reviews and **summarizing** them into structured 
 ## 📥 **Installation**
 Since this project is executed in a **Kaggle Notebook**, minimal installation is required.
 
-1️⃣ **Open the Kaggle Notebook**  
+1️⃣ **Open the Kaggle Notebook**
 2️⃣ **Ensure Dependencies Are Installed** (The notebook automatically installs required libraries)  
 
 If running locally, install the necessary dependencies:
 ```bash
 pip install nltk bertopic openai pandas plotly umap-learn
-### ✅ **Fix the Section Formatting**
-Make sure there's a **blank line** before and after the headings:
+```
 
-```md
 ## ⚙️ **How to Run**
-
 Since all steps are **included in a single notebook**, follow these steps:
 
 ### 🔹 **1. Run Preprocessing**
